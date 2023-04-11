@@ -37,7 +37,7 @@ Microsoft Visual Studio
 * CreateCompletedLamp: a trigger that generates a fresh lamp entry in the records once a lamp has been assembled at a specific assembly station
 
 
-## Description of Each Programs
+## Programs
 * Configuration Tool: the table allows for full configuration of parameters for the simulation, such as the time scale and starting quantities of each part bin. Other parameters that can be configured include the defect rates for each skill level and the capacity of test trays.
 * Workstation Simulation: represents a single assembly station and provides the simulated timing surrounding the creation of a fog lamp
 * Workstation Andon: displays a graphic representation of the part counts and status of a single assembly station in real-time
@@ -45,5 +45,7 @@ Microsoft Visual Studio
 
 
 ## Demonstration
-https://user-images.githubusercontent.com/70799519/231281049-2fa7df42-b08b-4d46-88ad-20418db37ac1.mp4
+https://user-images.githubusercontent.com/70799519/231285092-895950db-85fa-4eb5-bac9-b0581b6bc791.mp4
+
+
 
