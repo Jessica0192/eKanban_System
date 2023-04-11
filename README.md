@@ -1,4 +1,4 @@
-# eKanban System
+<h1 align="center">eKanban System</h1>
 A customized system was created for a fog light manufacturing company, utilizing the Kanban approach, to provide real-time updates and information to every level of the organizational structure. The system is also equipped with features for database configuration and employee management, and provides comprehensive data visualization tools for monitoring updates on parts and the overall manufacturing process.
 
 
