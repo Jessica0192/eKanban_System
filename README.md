@@ -13,12 +13,12 @@ C#
 Microsoft Visual Studio
 
 
-## Table Structure
+## Database Design
+The database structure comprises several tables that store different types of data. These tables include:
 * AssemblyStations table: includes information about each assembly station, such as its ID and name
-* BinCards table: includes information about each Kanban bin card, such as its ID, part type, and quantity
 * CompletedLamps table: includes information about each completed fog lamp, such as its ID, assembly station, and defect status
 * Configurations table: includes simulation configuration parameters, such as the time scale and defect rates
-* PartBins table: includes information about each part bin, such as its ID, part type, and current quantity
+* Employee table: includes information about employee, such as its ID, name and skill level
 * TestTrays table: includes information about each test tray, such as its ID and completion status
 
 
